@@ -1,0 +1,20 @@
+# Build
+lib
+
+# IDEs
+/.idea
+/.vscode
+
+# Dependency directories
+/node_modules
+
+# Logs
+*.log
+
+# Cache
+.nyc_output
+reports
+._*
+gsm.json
+.eslintcache
+*.DS_Store
